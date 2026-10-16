@@ -1,0 +1,15 @@
+title: Stephen Blandford
+description: >-
+  Optimization and power grid resilience.
+
+author: Stephen Blandford
+email: stephenblandford@utexas.edu
+url: "https://stephenblandford.github.io"
+baseurl: ""
+
+theme: minima
+
+header_pages:
+  - index.md
+  - research.md
+  - cv.md
